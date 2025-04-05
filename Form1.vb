@@ -9,6 +9,7 @@
             Label3.Text = Label3.Text & Str(n1(count)) & Space(3)
             count += 1
             TextBox1.Clear()
+            TextBox1.focus()
 
             
 
